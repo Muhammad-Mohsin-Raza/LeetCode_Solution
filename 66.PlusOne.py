@@ -1,4 +1,5 @@
 def fun(digits):
+#        revers a digits list
     digits=digits[::-1]
     i,carry=0,0
     flag=True
